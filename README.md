@@ -1,5 +1,5 @@
 # ♛✭ 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝘾𝙍𝘼𝘾𝙆 ✭♛
-<a href="https://github.com/abuhurairarafa/fbclonepro"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Dapunta/elite.png" width="460px"></a>
+
 ## ✯⇨𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨⇦✯
 [✯] Crack 4 Methode  
 [✯] Login Token  
