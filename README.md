@@ -15,9 +15,9 @@ $ pkg install git
 $ pip2 install bs4  
 $ pip2 install requests  
 $ pip2 install mechanize  
-$ git clone https://github.com/Dapunta/elite
+$ git clone https://github.com/abuhurairarafa/fbclonepro
 ## ✯⇨𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩⇦✯
-$ cd elite  
+$ cd fbclonepro  
 $ python2 elite
 ## ✯⇨𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚⇦✯
 1. Cari Akun Target
